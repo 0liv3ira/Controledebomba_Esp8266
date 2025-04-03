@@ -1,2 +1,1 @@
-# Controledebombad-gua_Esp8266
 MICROPROCESSADORES E MICROCONTROLADORES - Ufop ICea
